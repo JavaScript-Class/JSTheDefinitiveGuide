@@ -14,4 +14,4 @@ let variable = 1;
 
 ⬇ to check the grammar for .md
 
-[click here] (https://ffoorreeuunn.tistory.com/226)
+[click here](https://ffoorreeuunn.tistory.com/226)
